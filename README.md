@@ -1,5 +1,4 @@
 # arduino-digital-clock
-# Arduino Digital Clock with LCD & Push-Button Time Setting
 
 An interactive digital clock and calendar system built using an Arduino Uno microcontroller, a 16x2 character LCD display, and tactile push-buttons for manual time and date adjustment.
 
